@@ -1,0 +1,46 @@
+
+h1{
+    color: red;
+}
+
+#judul{
+    color: aqua;
+    text-align: center;
+}
+
+.nama{
+   color: red;
+    /* background-image: "../img/download (1).png"; */
+}
+
+#nama1{
+    color: brown;
+}
+#nama2{
+    color: brown;
+}
+#nama3{
+    color: brown;
+}
+#nama4{
+    color: brown;
+}
+
+#konten{
+    color: brown;
+}
+
+body{
+    /* background-color: rebeccapurple; */
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+    color: #000000;
+    font-weight: 900;
+    padding: 3vh 2vh 1vh 0vh;
+    margin: auto;
+    
+}
